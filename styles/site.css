@@ -1,5 +1,11 @@
 body {
-
-    background-color: chartreuse;
-    
+    background-color: chartreuse;  
 }
+
+img {
+    width: 500px; 
+}
+
+table, th, td {
+    border: 1px solid black;
+  }
