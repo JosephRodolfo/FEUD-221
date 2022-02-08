@@ -13,3 +13,23 @@ table, th, td {
 .importantCell {
     background-color: salmon;
 }
+
+.box {
+
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border: 1px solid black;
+    margin: 10px;
+
+
+}
+.box-rows {
+    flex-direction: row;
+    display: flex;
+}
+.box-container {
+    flex-direction: column;
+    display: flex;
+}
+
